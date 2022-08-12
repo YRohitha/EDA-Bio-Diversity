@@ -1,4 +1,4 @@
-## EDA-BioDiversity
+## EDA-Bio-Diversity
 
 **Ensure the survival of at-risk species, to maintain the level of biodiversity within their park**
 * Understand characteristics about the species and their conservations status using Descriptive statistics
