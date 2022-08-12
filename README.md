@@ -1,7 +1,8 @@
 ## EDA-BioDiversity
 
-#### Ensure the survival of at-risk species, to maintain the level of biodiversity within their park
-**Understanding characteristics about the species and their conservations status, and explore relationship between species and their relationship to the national parks**
+**Ensure the survival of at-risk species, to maintain the level of biodiversity within their park**
+* Understand characteristics about the species and their conservations status using Descriptive statistics
+* Explore relationship between species and their relationship to the national parks via Statistical Inference
 
 ### Description
 
